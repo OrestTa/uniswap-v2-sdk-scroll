@@ -1,4 +1,7 @@
-# UNISWAP-V2-SDK-SCROLL
+# [DEPRECATED] UNISWAP-V2-SDK-SCROLL
+
+This repo migrated to https://github.com/scroll-tech/uniswap-v2-sdk-scroll
+
 
 ## Update sdk
 
